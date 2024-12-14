@@ -1,6 +1,5 @@
-### Olá! Eu sou o Guilherme Ferreira 👋
+### Sejam Bem vindos!👋 <br> ⬇️Meu Linkedin
 [![Meu Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/guilherme-ferreira-firmo-de-sousa-7717b2248/)
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)](https://www.instagram.com/_guiferreiraf/)
 
 ![Firmodev GitHub stats](https://github-readme-stats.vercel.app/api?username=firmodev&show_icons=true&theme=dracula)
 
