@@ -38,8 +38,8 @@
 <h3 align="left">🔥 Status :</h3>
 
 <div align="center" style="display: flex; justify-content: space-between; align-items: center; width: 100%;">
-  <img src="https://streak-stats.demolab.com?user=firmodev&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5&order=3" height="180" alt="streak graph"  />
-  <img src="https://github-readme-stats.vercel.app/api?username=firmodev&show_icons=true&theme=dark" height="180" alt="stats" />
+  <img src="https://streak-stats.demolab.com?user=firmodev&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5&order=3" height="150" alt="streak graph"  />
+  <img src="https://github-readme-stats.vercel.app/api?username=firmodev&show_icons=true&theme=dark" height="150" alt="stats" />
 </div>
 
 <br>
