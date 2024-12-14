@@ -1,15 +1,48 @@
-### Sejam Bem vindos!👋 <br> ⬇️Meu Linkedin
-[![Meu Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/guilherme-ferreira-firmo-de-sousa-7717b2248/)
+[![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/guilherme-ferreira-firmo-de-sousa-7717b2248)
+[![Reddit](https://img.shields.io/badge/Reddit-FF4500?style=for-the-badge&logo=reddit&logoColor=white)](https://www.reddit.com/user/Guiferreiraneas/)
+###
 
-![Firmodev GitHub stats](https://github-readme-stats.vercel.app/api?username=firmodev&show_icons=true&theme=dracula)
 
-## 💻 Tecnologias que uso no meu dia
+###
 
-<div style="display: inline_block"><br/>
-    <img align="center" alt="html5" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
-    <img align="center" alt="c" src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white" />
-    <img align="center" alt="sqlserver" src="https://img.shields.io/badge/Microsoft_SQL_Server-CC2927?style=for-the-badge&logo=microsoft-sql-server&logoColor=white" />
-    
-</div><br>  
+<h1 align="left">Olá me chamo Guilherme Firmo 👋</h1>
 
-Apaixonado por tecnologia e aprendiz em programação. Sede em contribuir com inovações globais open source.
+###
+
+<h3 align="left">👩‍💻  Sobre mim</h3>
+
+###
+
+<p align="left">Eu sou do Brasil 🇧🇷<br>- 🔭 Cursando Técnico em Informatica<br>- 📚 Estou me aprofundando em C<br>- ⚡ Gosto de ler</p>
+
+###
+
+<h3 align="left">🛠 Linguagens e ferramenta que uso</h3>
+
+###
+
+<div align="left">
+  <img width="12" />
+  <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white" height="30" alt="C language"  /><img width="12" />
+  <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" height="30" alt="C++ language"  /><img width="12" />
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" height="30" alt="HTML5 language"/><img width="12" />
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" height="30" alt="CSS3 Language"  />
+  <img src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white" height="30" alt="MySQL Language"  /><img width="12" />
+  <img src="https://img.shields.io/badge/GNU%20Bash-4EAA25?style=for-the-badge&logo=GNU%20Bash&logoColor=white" height="30" alt="GNU Bash"  /><img width="12" />
+  <img src="https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white" height="30" alt="Git"  />  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-plain-wordmark.svg" height="40" alt="docker"  />
+</div>
+
+###
+
+<h3 align="left">🔥 Status :</h3>
+
+<div align="center" style="display: flex; justify-content: space-between; align-items: center; width: 100%;">
+  <img src="https://streak-stats.demolab.com?user=firmodev&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5&order=3" height="200" alt="streak graph"  />
+  <img src="https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=dark" height="200" alt="stats" />
+</div>
+
+<br>
+<div align="Left">
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=maurodesouza.maurodesouza&"  />
+</div>
