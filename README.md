@@ -17,7 +17,7 @@
 
 ###
 
-<h3 align="left">🛠 Linguagens e ferramenta que uso</h3>
+<h3 align="left">🛠 Linguagens e ferramentas que uso</h3>
 
 ###
 
