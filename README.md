@@ -44,5 +44,5 @@
 
 <br>
 <div align="Left">
-  <img src="https://visitor-badge.laobi.icu/badge?page_id=firmodev.firmodev&"  />
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=FirmoDev.FirmoDev&"  />
 </div>
