@@ -13,7 +13,7 @@
 
 ###
 
-<p align="left">Eu sou do Brasil 🇧🇷<br>- 🔭 Cursando Técnico em Informatica<br>- 📚 Estou me aprofundando em C<br>- ⚡ Gosto de ler</p>
+<p align="left">Eu sou do Brasil 🇧🇷<br>- 🔭 Cursando Técnico em Informatica<br>- 📚 Estou me aprofundando em Java<br>- ⚡ Mobile</p>
 
 ###
 
